@@ -86,10 +86,10 @@ nav {
  </head>
  <body>
     <header>
-        <div class="header-content">
-           <img src=/storage/8602-12EE/
+
+           <h3>A.Divya</h3>
            <p>student</p>
-        </div>
+        
     </header>
     <nav>
         <ul>
